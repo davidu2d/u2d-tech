@@ -1,0 +1,22 @@
+{
+  "name": "u2d-tech",
+  "version": "1.0.0",
+  "description": "lib for encoding e decoding Base64",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidu2d/u2d-tech.git"
+  },
+  "author": "David Jeremias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidu2d/u2d-tech/issues"
+  },
+  "homepage": "https://github.com/davidu2d/u2d-tech#readme",
+  "dependencies": {
+    "typescript": "^4.5.5"
+  }
+}
